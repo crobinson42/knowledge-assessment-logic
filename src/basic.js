@@ -1,6 +1,6 @@
 module.exports = {
   0: {
-    question: 'What number in the group?',
+    question: 'What number in the group doesn\'t belong?',
     answers: {
       0: 7,
       1: 11,
